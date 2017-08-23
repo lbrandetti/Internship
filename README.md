@@ -1,2 +1,2 @@
 # Internship
-Developing the use of satellite data for Operational Oceanography
+Hi! I'm a Master Student at Tu Delft University.
